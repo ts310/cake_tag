@@ -1,5 +1,8 @@
 # Tagging plugin for CakePHP
 
+Depend on cake_soring plugin.
+http://github.com/ts310/cake_sorting
+
 Usage: 
 
 - Add Tagging behavior to model.
